@@ -19,6 +19,7 @@
 
 - **Java**
 - **JavaScript**
+- **SQL**
 - **Docker**
 - **Git & GitHub**
 
